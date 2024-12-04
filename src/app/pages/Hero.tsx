@@ -15,9 +15,9 @@ const Hero = () => {
 </span>
      </div>
 
-     <h1 className='text-5xl font-bold mt-6 leading-normal text-center w-[30rem] mx-auto text-white'> Building Captivative Digital Experiences  </h1>
+     <h1 className='text-3xl md:text-5xl font-bold mt-6 leading-normal text-center md:w-[30rem] mx-auto text-white'> Building Captivative Digital Experiences  </h1>
       
-      <p className='text-center text-white w-[35rem] mx-auto'> Hi, Kayode Olowo, a passionate front-end engineer dedicated to creating responsive, user-friendly web applications. With expertise in HTML, CSS, and modern JavaScript frameworks, I bring designs to life through clean, and efficient code. I specialize in translating visions into interactive web experiences, building pixel-perfect, responsive websites that captivate users.</p>
+      <p className='text-center text-white md:w-[35rem] mx-auto'> Hi, Kayode Olowo, a passionate front-end engineer dedicated to creating responsive, user-friendly web applications. With expertise in HTML, CSS, and modern JavaScript frameworks, I bring designs to life through clean, and efficient code. I specialize in translating visions into interactive web experiences, building pixel-perfect, responsive websites that captivate users.</p>
       </div>
     </section>
   )
